@@ -13,10 +13,8 @@ This analysis seeks to develop and organize data on the employees that are close
 * The company will only lose 2 managers as a result of the upcoming retirement wave.
 
 ### Mentorship Eligibility
-* Pewlett Hackard has 240,124 employees eligble for the mentorship program.
-* All titles are represented among the employees eligible for retirement, meaning that mentors can be found for each kind of position.
-
-## Summary
+* Pewlett Hackard has 1,550 employees eligble for the mentorship program.
+* 
 
 In summary, the results of this analysis reveal that the two positions that will see the largest turnover during the retirement wave are the positions of Senior Engineer and Senior Staff. We can also see that the two departments that will see the largest turnover are Development and Production, according to the results of the query deisplayed below.
 
