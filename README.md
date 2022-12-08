@@ -15,8 +15,8 @@ This analysis seeks to develop and organize data on the employees that are close
 ![retiring_titles.png](Images/retiring_titles.png)
 
 ### Mentorship Eligibility
-* Pewlett Hackard has 1,550 employees eligible for the mentorship program.
-* There are no managers in this list of 1,550 eligible employees. It will be important to address this gap and develop a strategy for how to train the two managers that will succeed the ones expected to retire.
+* Pewlett Hackard has 1,549 employees eligible for the mentorship program.
+* There are no managers in this list of 1,549 eligible employees. It will be important to address this gap and develop a strategy for how to train the two managers that will succeed the ones expected to retire.
 
 ## Summary
 
